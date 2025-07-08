@@ -1,0 +1,10 @@
+# how to refine your promot?
+Name [name and version of your prompt]
+Goal [One sentence explanation of the goal of this attempt]
+Model [name and version of the used model]
+Temperature [value between 0 - 1] 
+Token Limit [number]
+Top-K [number] 
+Top-P [number]
+Prompt [Write all the full prompt]
+Output [Write out the output or multiple outputs]
